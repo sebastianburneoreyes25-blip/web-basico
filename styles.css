@@ -10,4 +10,12 @@ main {
     max-width: 800px;
     margin: 20px auto;
     background-color: white;
+footer {
+    background-color: #555;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
