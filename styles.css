@@ -1,9 +1,12 @@
+/* styles.css en feat-header-nav */
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: #e0e0e0; /* Miembro 1: Color gris claro */
 }
+
 
 header {
     background-color: #333;
