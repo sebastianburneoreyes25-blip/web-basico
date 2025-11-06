@@ -1,10 +1,9 @@
-/* styles.css en feat-header-nav */
-
+/* styles.css en feat-main-content */
 body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #e0e0e0; /* Miembro 1: Color gris claro */
+    background-color: #ffffff; /* Miembro 2: Color blanco */
 }
 
 
@@ -13,6 +12,7 @@ main {
     max-width: 800px;
     margin: 20px auto;
     background-color: white;
+}
 header {
     background-color: #333;
     color: white;
@@ -24,6 +24,7 @@ nav a {
     color: white;
     margin: 0 10px;
     text-decoration: none;
+}
 footer {
     background-color: #555;
     color: white;
