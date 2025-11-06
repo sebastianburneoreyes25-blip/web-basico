@@ -10,6 +10,17 @@ main {
     max-width: 800px;
     margin: 20px auto;
     background-color: white;
+header {
+    background-color: #333;
+    color: white;
+    padding: 1em;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
 footer {
     background-color: #555;
     color: white;
